@@ -1,0 +1,8 @@
+{
+	"proxy": {
+		"proxy_port": 3333,
+		"proxy_address": "0.0.0.0",
+		"update_timeout_seconds": 30,
+		"log_file_name": "proxy.log"
+	}
+}

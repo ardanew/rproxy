@@ -1,0 +1,10 @@
+{
+	"default_pool": {
+		"address": "stratum.slushpool.com",
+		"port": 3333,
+		"login": "testcript.nhdev",
+		"password": "d=1048576",
+		"write_log": true,
+		"mute_notifies": false
+	}
+}
